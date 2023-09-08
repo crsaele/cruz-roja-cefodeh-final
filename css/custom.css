@@ -1,0 +1,12 @@
+#features {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.features-heading {
+    font-family: inherit;
+    padding-bottom: 20px;
+}
+
+footer {
+    background: linear-gradient(45deg, red, darkred);
+}
